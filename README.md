@@ -8,25 +8,26 @@ This repository serves as a companion to the Networking with Python Guide, offer
 Key Features:
 
 Step-by-Step Tutorials: Follow detailed guides to learn networking concepts.
-Practical Examples: Explore code snippets and applications for real-world scenarios.
-Broad Coverage: From socket programming to higher-level networking protocols.
-Clean, Modular Code: All examples are well-documented and easy to understand.
+* Practical Examples: Explore code snippets and applications for real-world scenarios.
+* Broad Coverage: From socket programming to higher-level networking protocols.
+* Clean, Modular Code: All examples are well-documented and easy to understand.
 
 🚀 What You'll Learn
-Networking Basics: Understanding IPs, ports, and protocols.
-Socket Programming: Build TCP and UDP client-server models.
-HTTP and REST APIs: Work with web services and APIs.
-Asynchronous Networking: Implement efficient non-blocking I/O operations.
-Security: Learn about secure communication using encryption.
-Custom Applications: Develop chat apps, web servers, and more.
+* Networking Basics: Understanding IPs, ports, and protocols.
+* Socket Programming: Build TCP and UDP client-server models.
+* HTTP and REST APIs: Work with web services and APIs.
+* Asynchronous Networking: Implement efficient non-blocking I/O operations.
+* Security: Learn about secure communication using encryption.
+* Custom Applications: Develop chat apps, web servers, and more.
 
 🛠️ Installation
 Clone the repository and install dependencies:
 
+```
 git clone https://github.com/yaser-rahmati-official/Network-Programming-with-Python.git  
 cd Network-Programming-with-Python  
 pip install -r requirements.txt  
-
+```
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions, improvements, or examples to add, please open an issue or submit a pull request.
