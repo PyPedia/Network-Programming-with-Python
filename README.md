@@ -7,7 +7,7 @@ This repository serves as a companion to the Networking with Python Guide, offer
 
 Key Features:
 
-Step-by-Step Tutorials: Follow detailed guides to learn networking concepts.
+* Step-by-Step Tutorials: Follow detailed guides to learn networking concepts.
 * Practical Examples: Explore code snippets and applications for real-world scenarios.
 * Broad Coverage: From socket programming to higher-level networking protocols.
 * Clean, Modular Code: All examples are well-documented and easy to understand.
