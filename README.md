@@ -2,7 +2,6 @@
 
 Welcome to the Network Programming with Python repository! This project provides a comprehensive guide and practical examples for learning and implementing network programming using Python. Whether you're a beginner or an experienced developer, you'll find valuable resources to build robust networking applications.
 
-📚 About the Repository
 ## 📚 About the Repository ##
 This repository serves as a companion to the Networking with Python Guide, offering in-depth explanations and real-world examples to help you master network programming concepts and techniques.
 
@@ -13,7 +12,6 @@ Step-by-Step Tutorials: Follow detailed guides to learn networking concepts.
 * Broad Coverage: From socket programming to higher-level networking protocols.
 * Clean, Modular Code: All examples are well-documented and easy to understand.
 
-🚀 What You'll Learn
 ## 🚀 What You'll Learn ##
 * Networking Basics: Understanding IPs, ports, and protocols.
 * Socket Programming: Build TCP and UDP client-server models.
@@ -22,7 +20,7 @@ Step-by-Step Tutorials: Follow detailed guides to learn networking concepts.
 * Security: Learn about secure communication using encryption.
 * Custom Applications: Develop chat apps, web servers, and more.
 
-🛠️ Installation
+## 🛠️ Installation ##
 Clone the repository and install dependencies:
 
 ```
